@@ -1,6 +1,6 @@
 # BBVA PLAN
 
-![imagen](img/1.png)
+![imagen](https://image.ibb.co/cMPsXd/1.png)
 
 ## ELABORADO PARA [BBVA BANCOMER](https://www.bancomer.com/personas/apps/bbva-plan.html)
 
